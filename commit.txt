@@ -1,0 +1,17 @@
+commit d5e0052b03aaafd5496522731a98771e240a01bc
+Author: Razo <alberto1998@live.com.mx>
+Date:   Sun Dec 10 23:29:29 2017 -0600
+
+    se agrego el pie de pagina
+
+commit b5fb4462220548b06b850ea2c6da64b874cc2192
+Author: Razo <alberto1998@live.com.mx>
+Date:   Sun Dec 10 23:16:37 2017 -0600
+
+    modificacion de error del index
+
+commit 4e2881dbb03e5d3aa24735457d6e85e5f45227e0
+Author: Razo <alberto1998@live.com.mx>
+Date:   Sun Dec 10 23:04:11 2017 -0600
+
+    Inicio del Proyecto
